@@ -1,0 +1,14 @@
+Inorder to get the info to link your spotify account and to the genius api you need to connect to both of them.
+for the potify credentials just go to google and type "spotify api" or go to this link - https://developer.spotify.com/documentation/web-api/
+after that just connect to your spotify account and go to "DASHBOARD" (should be on the top bar).
+under "DASHBOARD" you can create a new app, go ahed and create one. after you created it just click on it and it will send you to an overview,where
+you can see two fields: "Client ID" and "Client SECRET" (you might need to press on the "SHOW CLIENT SECRET"). save both of those.
+
+after this go again to google and look for genius api or go to this link - https://docs.genius.com/
+after that press "Manage clients" on the left scroll menu (you might need to connect to the site. either create an account or use your google\facebook account).
+after you click "Manage clients" and you are connected with an account you'll see a "Generate Access Token" button. press it and copy the token.
+
+when you open the program you'll need to enter the information above inorder to connect it to your spotify account for the current song and to the genius api
+for the lyrics database.
+
+make sure to not share your spotify secret key as.. well... its supposed to be secret.
