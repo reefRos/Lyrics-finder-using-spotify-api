@@ -1,3 +1,5 @@
+To run the program open both python files and run lyricsFinderInterface.py
+
 Inorder to get the info to link your spotify account and to the genius api you need to connect to both of them.
 for the potify credentials just go to google and type "spotify api" or go to this link - https://developer.spotify.com/documentation/web-api/
 after that just connect to your spotify account and go to "DASHBOARD" (should be on the top bar).
